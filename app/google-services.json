@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "152527592338",
+    "firebase_url": "https://msse657.firebaseio.com",
+    "project_id": "msse657",
+    "storage_bucket": "msse657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152527592338:android:de43533703ec3ab3",
+        "android_client_info": {
+          "package_name": "edu.regis.msse655.mprater.mmv30"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152527592338-lp0d06a4q5etevh10sjdoc55avb7g3n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFu2-7cFFS4Unar9O4_IGDyKJNtwJYVjA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152527592338:android:2ca1994c6480e1be",
+        "android_client_info": {
+          "package_name": "edu.regis.msse655.mprater.testfirebasejson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152527592338-lp0d06a4q5etevh10sjdoc55avb7g3n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFu2-7cFFS4Unar9O4_IGDyKJNtwJYVjA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152527592338:android:6eb1b05780cba34f",
+        "android_client_info": {
+          "package_name": "edu.regis.msse655.mprater.cheatingfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152527592338-t2fve9i7hn4rj0906oan2416pvk2eg9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.regis.msse655.mprater.cheatingfirebaseapp",
+            "certificate_hash": "f1c9a18dbc16283f56a00e0a9ff43f24a1b33050"
+          }
+        },
+        {
+          "client_id": "152527592338-lp0d06a4q5etevh10sjdoc55avb7g3n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFu2-7cFFS4Unar9O4_IGDyKJNtwJYVjA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152527592338-lp0d06a4q5etevh10sjdoc55avb7g3n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

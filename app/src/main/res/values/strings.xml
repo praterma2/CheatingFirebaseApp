@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheatingFirebaseApp</string>
+    <string name="read_the_data">Read the data</string>
+    <string name="add_value_to_firebase">Add Value to Firebase</string>
+</resources>
